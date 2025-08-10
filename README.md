@@ -1,7 +1,7 @@
 # **JetSetGo** - Personalized Travel Itinerary Generator
 
 ### **Live Link**
-Click <a href='https://sanyogmishra.pythonanywhere.com/'>here</a> to access the website.
+Click <a href='https://sanyogmishra.pythonanywhere.com/'>here</a> to access the website. [NO LONGER AVAILABLE; 3 MONTH DURATION EXHAUSTED]
 
 ### **Overview**
 This Django-based web application generates personalized travel itineraries based on user preferences such as destination, budget, and activities. It integrates Google Gemini API for itinerary generation and scrapes images from Wikimedia to visually enhance the itineraries.
